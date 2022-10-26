@@ -7,7 +7,7 @@
   
 <h2 >WELCOME</h2>
 
-Math Climb is an open community to promote independent wholistic math eduction and research.
+Math Climb is an open community to promote independent wholistic math education and research.
 
 <h2>I. MISSION</h2>
 Promote wholistic math education and research.
