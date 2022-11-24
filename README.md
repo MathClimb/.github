@@ -3,7 +3,7 @@
   <h6>Math Climb</h6>
   <h1>ABOUT</h1>
   <p>Nature is written in mathematical language — Galileo Galilei</p>
-  <a href="https://github.com/mathclimb/.github/blob/main/JOIN.md"><b>JOIN</b></a> - | <a href="https://github.com/mathclimb/.github">About</a> | <a href="https://github.com/mathclimb/community">Community</a> | <a href="https://github.com/orgs/mathclimb/discussions">Discussions</a> | <a href="https://github.com/mathclimb/community/wiki">Wiki</a>  | 
+  <a href="https://github.com/mathclimb/.github/blob/main/JOIN.md"><b>JOIN</b></a> -  <h6> | <a href="https://github.com/MathClimb/.github">About</a> | <a href="https://github.com/MathClimb/awesome">Awesome</a> | <a href="https://github.com/orgs/mathclimb/discussions">Discussion</a> | <a href="https://github.com/mathclimb/community/wiki">Wiki</a> | <a href="https://github.com/MathClimb/newsletter">Newsletter</a> | <a href="https://github.com/MathClimb/services">Services</a> | <a href="https://github.com/MathClimb/jobs">Job Board</a> | <a href="https://github.com/MathClimb/shop">Shop</a> |</h6>
   
 <h2 >WELCOME</h2>
 
