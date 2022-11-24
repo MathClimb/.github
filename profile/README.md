@@ -7,7 +7,7 @@
 #
 
 <div align="center">
-  <h3>:moneybag:</h3>
+  <h3>:milky-way:</h3>
   <details open><summary><h2><a href="https://github.com/MathClimb/community">Community</a></h2></summary>
 
   | <sub>1</sub> | <sub>2</sub> | <sub>3</sub> | <sub>4</sub> | <sub>5</sub> | <sub>6</sub> | <sub>7</sub> | <sub>8</sub> |
